@@ -20,6 +20,7 @@ This is how it looks like:
 ![3D view of the board](image/3d_view.jpg)
 ![PCB](image/pcb.png)
 ![Schematic](image/schematic.png)
+![Side view with pots](image/side.png)
 
 # Components
 
