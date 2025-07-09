@@ -47,3 +47,4 @@ This is how it looks like:
 - You can also use long-shaft pots or long leg pots but they are bit harder to find and you will have less space for the components
 - 125B is chinese name for knockoff 1590N1
 - In 1590N1 the corners of jacks stick out 0.3mm which is fine, but in 1590B the stickout would be 2.3mm which is too much (you would have to use non-standard 2mm DC jack)
+- If you don't see 3D models install provided footprint library and call it "perfect-pedal-layout-footprints"
